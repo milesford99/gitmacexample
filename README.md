@@ -1,0 +1,2 @@
+# gitmacexample
+Test mac setup
