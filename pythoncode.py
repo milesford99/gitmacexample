@@ -13,3 +13,5 @@ beer=input ("What kind do you like?")
 if beer == "pbr" or beer == "pabst":
     print ("Domestics huh?")
 else: print ("I don't think I've ever heard of " + beer)
+
+print ("get me a pack of cigarettes")
